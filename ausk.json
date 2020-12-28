@@ -29,7 +29,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":134,
          "x":0,
          "y":0
@@ -47,7 +47,7 @@
                  "value":"big.json#start"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":134,
          "x":0,
          "y":0
